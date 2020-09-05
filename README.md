@@ -152,6 +152,10 @@ Tenant / Leasee
 
 
 
+### Credit:
+
+[KAngel7](https://github.com/KAngel7/clone-reales-real-estate)
+
 
 
 
