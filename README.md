@@ -1,9 +1,9 @@
 ![bloc_spot-2](./frontend/img/blockhome.png)
 # BLOC HOME
 
-### DEALERLESS DEALS - SMARTER, SECURE & FASTER
+### BLOCHOME - SMARTER, SECURE & FASTER
 ---
-Dealerless Deals is a platform that provides services for sell (through auction), rent and real estate launch in the property registry using smart contracts
+BlocHome is a platform that provides services for sell (through auction), rent and real estate launch in the property registry using smart contracts
   * Develop a digital real estate blockchain platform for the management of luxury home, apartments, investment property,  property rentals, and sales.
   * Utilize Digital Token Technology to manage the distribution of real estate smart contacts.
   * Utilize computer algorithms, blockchain, location data, predictive analytics and more to help investors locate and sell properties, find renters and maximize their real estate investments.
@@ -142,7 +142,7 @@ Trains Models to to identify, categorize and value Housing Sales Price per sqft 
 ### DEMO 
 ---
 
-[BLOC HOME WEBSITE](https://maitree7.github.io/DealerLessdeals_RealEstate/)
+[BLOC HOME WEBSITE](https://kowsi.github.io/BlocHome-Smart_Contract_Real_Estate/index.html)
 
 With Admin Rights (Property Listing)
 
