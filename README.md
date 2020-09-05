@@ -1,4 +1,4 @@
-![bloc_spot-2](./frontend/img/bloc_spot-2.gif)
+![bloc_spot-2](./frontend/img/blockhome.png)
 # BLOC HOME
 
 ### DEALERLESS DEALS - SMARTER, SECURE & FASTER
