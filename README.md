@@ -1,7 +1,7 @@
 ![bloc_spot-2](./frontend/img/blockhome.png)
 # BLOC HOME
 
-### BLOCHOME - SMARTER, SECURE & FASTER
+### Smart Contract Real Estate Application - SMARTER, SECURE & FASTER
 ---
 BlocHome is a platform that provides services for sell (through auction), rent and real estate launch in the property registry using smart contracts
   * Develop a digital real estate blockchain platform for the management of luxury home, apartments, investment property,  property rentals, and sales.
