@@ -23,10 +23,10 @@ const dApp = {
 
     this.accounts = await window.web3.eth.getAccounts();
     this.marketContractAddress = marketContractAddress;
-    this.propertyJson = await (await fetch("./build/contracts/Property.json")).json();
-    this.marketJson = await (await fetch("./build/contracts/DealerlessMarket.json")).json();
-    this.auctionJson = await (await fetch("./build/contracts/DealerlessAuction.json")).json();
-    this.rentalsJson = await (await fetch("./build/contracts/DealerlessRental.json")).json();
+    this.propertyJson = await (await fetch("./src/abis/Property.json")).json();
+    this.marketJson = await (await fetch("./src/abis/DealerlessMarket.json")).json();
+    this.auctionJson = await (await fetch("./src/abis/DealerlessAuction.json")).json();
+    this.rentalsJson = await (await fetch("./src/abis/DealerlessRental.json")).json();
     this.marsContract = new window.web3.eth.Contract(
       this.marketJson,
       this.marketContractAddress,
