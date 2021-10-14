@@ -142,7 +142,7 @@ Trains Models to to identify, categorize and value Housing Sales Price per sqft 
 ### DEMO 
 ---
 
-[BLOC HOME WEBSITE](https://kowsi.github.io/BlocHome-Smart_Contract_Real_Estate/index.html)
+[BLOC HOME WEBSITE](https://kowsi.github.io/BlocHome/)
 
 With Admin Rights (Property Listing)
 
